@@ -2,3 +2,6 @@ git --version
 git stauts
 git add.
 git commit -m
+newly added likes
+git push test
+git pull test
