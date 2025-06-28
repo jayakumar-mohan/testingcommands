@@ -1,4 +1,0 @@
-git --version
-git stauts
-git add.
-git commit -m
