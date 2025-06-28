@@ -1,4 +1,4 @@
 i like to learn git commands
 git add .
 git push
-pit pull
+git pull
